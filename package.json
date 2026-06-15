@@ -80,6 +80,7 @@
     "number",
     "uint32",
     "integer",
+    "unsigned",
     "c"
   ],
   "funding": {
